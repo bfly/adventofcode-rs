@@ -2,7 +2,7 @@ use std::convert::TryInto;
 use std::num::NonZeroU8;
 use std::str::FromStr;
 
-use aoc_2020::*;
+use aoc_2021::*;
 use structopt::StructOpt;
 
 #[derive(Debug, Copy, Clone, Eq, PartialEq, StructOpt)]
